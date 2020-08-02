@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29965" started-at="2020-08-01T11:46:46Z" finished-at="2020-08-01T11:47:16Z">
+    <groups>
+    </groups>
+    <test name="Chrome Test" duration-ms="29965" started-at="2020-08-01T11:46:46Z" finished-at="2020-08-01T11:47:16Z">
+      <class name="azure.FreshWorksTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:azure.FreshWorksTest@60704c]" name="setup" is-config="true" duration-ms="13191" started-at="2020-08-01T11:46:46Z" finished-at="2020-08-01T11:46:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="freshWorksTitleTest()[pri:0, instance:azure.FreshWorksTest@60704c]" name="freshWorksTitleTest" duration-ms="66" started-at="2020-08-01T11:46:59Z" finished-at="2020-08-01T11:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freshWorksTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:azure.FreshWorksTest@60704c]" name="tearDown" is-config="true" duration-ms="765" started-at="2020-08-01T11:46:59Z" finished-at="2020-08-01T11:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:azure.FreshWorksTest@60704c]" name="setup" is-config="true" duration-ms="14171" started-at="2020-08-01T11:47:00Z" finished-at="2020-08-01T11:47:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getFooterLinksTest()[pri:0, instance:azure.FreshWorksTest@60704c]" name="getFooterLinksTest" duration-ms="970" started-at="2020-08-01T11:47:14Z" finished-at="2020-08-01T11:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFooterLinksTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:azure.FreshWorksTest@60704c]" name="tearDown" is-config="true" duration-ms="753" started-at="2020-08-01T11:47:15Z" finished-at="2020-08-01T11:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- azure.FreshWorksTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>
